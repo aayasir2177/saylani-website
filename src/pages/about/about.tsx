@@ -29,10 +29,9 @@ const items = [
 function About() {
   return (
     <div id="about" className="block aboutBlock">
-      <div className="container-fluid">
+      <div className="container-fluid mt-8 p-8">
         <div className="titleHolder">
           <h2>About Us</h2>
-          <p>dolor sit amet, consectetur adipisicing elit</p>
         </div>
         <div className="contentHolder">
           <p>

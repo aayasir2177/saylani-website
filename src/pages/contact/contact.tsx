@@ -1,7 +1,6 @@
 import "./contact.css";
 
 import { Form, Input, Button, Checkbox } from "antd";
-import { IconName } from "react-icons/ai";
 const { TextArea } = Input;
 
 function Contact() {
